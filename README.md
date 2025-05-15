@@ -1,6 +1,6 @@
 <div align="center">  
   <h1 align="center">  
-    <img src="Report and Figures/im0.png" alt="App Icon" width="500">  
+    <img src="Report and Figures/im0.png" alt="App Icon" width="400">  
     <br>ZNCC Algorithm-Based Stereo Disparity Computation Using OpenCL
   </h1>  
 
@@ -128,10 +128,10 @@ This repository contains well-commented, modular code ideal for extending with:
 
 - Further GPU kernel optimizations and support for other hardware platforms.
 
-License
+### License
 - This project is released under the MIT License — see LICENSE for details.
 
-Contact
+### Contact
 For questions, suggestions, or collaborations, please reach out via GitHub or email at abutaher.kuet.ece@gmail.com.
 
 
